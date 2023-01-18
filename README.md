@@ -18,7 +18,7 @@
 🔭 I’m currently preparing for construct week project!.<br>
 <br>🌱 I’m currently learning MERN Stack.<br>
 <br>📄 Check out my [Resume](https://drive.google.com/uc?id=1XQsL2a-Jw_dGKsCm4KvWWunVTALaojUW&export=download)<br>
-<br>💻 Know more about me [Portfilio](https://hanumat-sharan.github.io/)<br>
+<br>💻 Know more about me Portfilio(https://hanumat-sharan.github.io/)<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/HANUMAT-SHARAN?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
 <br>📫 How to reach me deotadayal27@gmail.com<br>
