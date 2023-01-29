@@ -14,7 +14,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently preparing for construct week project!.<br>
+🔭 I’m currently Learning NEM.<br>
 <br>🌱 I’m currently learning MERN Stack.<br>
 <br>📄 Check out my [Resume](https://drive.google.com/uc?id=1XQsL2a-Jw_dGKsCm4KvWWunVTALaojUW&export=download)<br>
 <br>💻 Know more about me Portfilio(https://hanumat-sharan.github.io/)<br>
