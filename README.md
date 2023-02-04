@@ -35,10 +35,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
 <br/>
-
-
 
 <h2 align="center">🚀 Languages and Tools:</h2>
 <br/>
