@@ -7,7 +7,6 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Full+Stack+Web+Developer;An+Ambitious;Life-Long+Learner&color=cyan&center=true" />
 </div>
 
-
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" /></p>
@@ -26,7 +25,6 @@
 
 <h2 align="center">📱 Connect with me</h2>
 <br />
-
 <p align="center">
       <a href="https://www.linkedin.com/in/hanumat-sharan-168548258/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
