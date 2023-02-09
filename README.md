@@ -20,7 +20,7 @@
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/HANUMAT-SHARAN?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
 <br>📫 How to reach me deotadayal27@gmail.com<br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HANUMAT-SHARAN&label=Profile%20views&color=0e75b6&style=flat" alt="unique-sachin" /> </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📱 Connect with me</h2>
