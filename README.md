@@ -13,7 +13,6 @@
 
 # 💫 About Me:
 
-
 <br>🌱 I’m currently learning MERN Stack.<br>
 <br>📄 Check out my [Resume](https://drive.google.com/uc?id=1XQsL2a-Jw_dGKsCm4KvWWunVTALaojUW&export=download)<br>
 <br>💻 Know more about me Portfilio(https://hanumat-sharan.github.io/)<br>
@@ -73,12 +72,9 @@
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
  </div>
 </div>
-
 <br/>
 <br/>
-  
-
-
+ 
 <img width="full" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <h2 align="center">📊 My Github Stats</h2>
