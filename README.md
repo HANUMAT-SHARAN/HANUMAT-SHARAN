@@ -35,6 +35,7 @@
 <br/>
 
 <h2 align="center">🚀 Languages and Tools:</h2>
+    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <br/>
 <div align="center">
  
@@ -50,7 +51,7 @@
 <br/>
   <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
-   
+   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </div>
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
@@ -58,7 +59,7 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
  </div>
-  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   <div align="center"><h3 align="center">Tools</h3> 
 
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
