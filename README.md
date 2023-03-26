@@ -11,7 +11,6 @@
 <p><img  align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="45%" /></p>
 
 # 💫 About Me:
-
 <br>🌱 I’m currently learning MERN Stack.<br>
 <br>📄 Check out my [Resume](https://drive.google.com/uc?id=1XQsL2a-Jw_dGKsCm4KvWWunVTALaojUW&export=download)<br>
 <br>💻 Know more about me Portfilio(https://hanumat-sharan.github.io/)<br>
