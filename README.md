@@ -99,8 +99,7 @@
 
 
   <a><img alt="Hanumat Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=HANUMAT-SHARAN&theme=react-dark&hide_border=true" /></a>
-
-
+    <center><h2 style="text-align:center;">Thanks for viewing my profile! 🙌😇🙌</h2></center>
 <!---
 HANUMAT-SHARAN/HANUMAT-SHARAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
