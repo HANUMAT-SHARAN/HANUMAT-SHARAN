@@ -91,15 +91,7 @@
 
   
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=HANUMAT-SHARAN&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10" height="200px"/></a>
-</p>
-
-
-
-
-
-
-  <a><img alt="Hanumat Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=HANUMAT-SHARAN&theme=react-dark&hide_border=true" /></a>
-    <center><h2 style="text-align:center;">Thanks for viewing my profile! 🙌😇🙌</h2></center>
+</p><center><h2 style="text-align:center;">Thanks for viewing my profile! 🙌😇🙌</h2></center>
 <!---
 HANUMAT-SHARAN/HANUMAT-SHARAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
